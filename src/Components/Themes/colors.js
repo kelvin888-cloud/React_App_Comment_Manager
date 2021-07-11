@@ -1,0 +1,21 @@
+export const Colors = {
+    black: '#000000',
+    blueGradient: 'linear-gradient(#00AEEF, #065F87)',
+    blueRedGradient: 'linear-gradient(#dc143c, #065F87)',
+    greyGradient: 'linear-gradient(#f0f0f0, #D1D1D1)',
+    header: 'linear-gradient(#00AEEF, #1894CB)',
+    highlight: '#ffe135',
+    mediumGray: '#D1D1D1',
+    positive: '#15D300',
+    primary: '#00AEEF',
+    pureWhite: '#ffffff',
+    redHeart: '#dc143c',
+    red: '#FF0000',
+    secondary: '#00395d',
+    text: '#212529',
+    blue: '#1c39bb',
+    white: '#ffffff',
+    OrangeColor: '#f56a00',
+    lightOrangeColor: '#fde3cf',
+  };
+  
