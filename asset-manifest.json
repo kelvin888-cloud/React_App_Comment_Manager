@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_App_Comment_Manager/static/css/main.fbb31d2a.chunk.css",
+    "main.js": "/React_App_Comment_Manager/static/js/main.6e77335a.chunk.js",
+    "main.js.map": "/React_App_Comment_Manager/static/js/main.6e77335a.chunk.js.map",
+    "runtime-main.js": "/React_App_Comment_Manager/static/js/runtime-main.4b9acc3d.js",
+    "runtime-main.js.map": "/React_App_Comment_Manager/static/js/runtime-main.4b9acc3d.js.map",
+    "static/css/2.081f420c.chunk.css": "/React_App_Comment_Manager/static/css/2.081f420c.chunk.css",
+    "static/js/2.a28ecba8.chunk.js": "/React_App_Comment_Manager/static/js/2.a28ecba8.chunk.js",
+    "static/js/2.a28ecba8.chunk.js.map": "/React_App_Comment_Manager/static/js/2.a28ecba8.chunk.js.map",
+    "index.html": "/React_App_Comment_Manager/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/React_App_Comment_Manager/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.fbb31d2a.chunk.css.map": "/React_App_Comment_Manager/static/css/main.fbb31d2a.chunk.css.map",
+    "static/js/2.a28ecba8.chunk.js.LICENSE.txt": "/React_App_Comment_Manager/static/js/2.a28ecba8.chunk.js.LICENSE.txt",
+    "static/media/comment.08916299.png": "/React_App_Comment_Manager/static/media/comment.08916299.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b9acc3d.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.a28ecba8.chunk.js",
+    "static/css/main.fbb31d2a.chunk.css",
+    "static/js/main.6e77335a.chunk.js"
+  ]
+}

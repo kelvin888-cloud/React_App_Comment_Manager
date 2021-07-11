@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/style.css"],"names":[],"mappings":"AAAA,gBACE,gBAAiB,CACjB,aACF,CAEA,kCACE,iBAAkB,CAClB,cACF","file":"main.fbb31d2a.chunk.css","sourcesContent":[".comment-action {\r\n  padding-left: 8px;\r\n  cursor: 'auto';\r\n}\r\n\r\n[class*='-col-rtl'] .comment-action {\r\n  padding-right: 8px;\r\n  padding-left: 0;\r\n}"]}
